@@ -1,0 +1,31 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: hi! it's vayne.
+    entries:
+      - title: this is our lighter directory.
+      - title: mostly for the stuff most people don't really think about. if there's a link to vayne's stuff that's needed, it's probably here.
+      - title: anyway. you came here for links lol
+      - title: here u go
+
+  - title: vayne's links
+    entries:
+      - title: "carrd: <a class='selfId carrd' href='https://vgdn.cc/carrd'><i class='fa-solid fa-address-card'></i>vayne.garden</a>"
+      - title: "rentry: <a class='selfId rentry' href='https://vgdn.cc/rentry'><i class='fa-solid fa-scroll'></i>/vaynegarden</a>"
+      - title: "system info: <a class='selfId rentry' href='https://vgdn.cc/rentry_sys'><i class='fa-solid fa-circle-nodes'></i>_system</a>"
+      - title: "<details closed class=inlineDet><summary>twitter: <a class='selfId twitter' href='https://vgdn.cc/maintwt'><i class='fa-brands fa-twitter'></i>@pressedandroses</a></summary><div><ul><li>system twt: <a class='selfId twitter' href='https://vgdn.cc/systwt'><i class='fa-brands fa-twitter'></i>@judestlasting</a></li><li>art twt: <a class='selfId twitter' href='https://vgdn.cc/artwt'><i class='fa-brands fa-twitter'></i>@vaynegarden</a></li></ul></div></details>"
+      - title: "instagram: <a class='selfId instagram' href='https://vgdn.cc/ig_art'><i class='fa-brands fa-instagram'></i>@vaynegarden</a>"
+      - title: "facebook: <a class='selfId facebook' href='https://vgdn.cc/fb_art'><i class='fa-brands fa-facebook'></i>/vaynegarden</a>"
+      - title: "spotify: <a class='selfId spotify' href='https://vgdn.cc/spotify'><i class='fa-brands fa-spotify'></i>spotify!vayne</a>"
+      - title: "youtube: <a class='selfId youtube' href='https://vgdn.cc/youtube'><i class='fa-brands fa-youtube'></i>@vaynegarden</a>"
+      - title: "gumroad: <a class='selfId gumroad' href='https://vgdn.cc/gumroad'><i class='fa-solid fa-heart'></i>@vaynegarden</a>"
+  - title: "for the stuff that isn't important enough to be a blog post but not silly enough to be a tweet or a chost"
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: rss
+    url: feed.xml
