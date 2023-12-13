@@ -31,7 +31,7 @@ twitter_username: pressedandroses
 github_username: vaynealtapascine
 
 # Build settings
-theme: minima
+remote_theme: no-style-please
 plugins:
   - jekyll-feed
 
