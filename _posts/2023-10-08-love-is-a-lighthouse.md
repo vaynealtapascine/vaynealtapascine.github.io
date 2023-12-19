@@ -2,7 +2,7 @@
 layout: post
 title:  "look for the light"
 date:   2023-10-08 15:47:14 +0800
-categories: memorybox august
+categories: blog memorybox august
 ---
 <div class='speaking_august quote'>ok but can u breakdown the lighthouse song for me</div><time class="inlineTime">2023-09-29 09:47:44</time>
 

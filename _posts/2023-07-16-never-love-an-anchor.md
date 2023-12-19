@@ -2,7 +2,7 @@
 layout: post
 title:  "my brain on never love an anchor"
 date:   2023-07-16 01:31:25 +0800
-categories: memorybox august
+categories: blog memorybox august
 ---
 i think the closest i can get to a conclusion for Never Love an Anchor is twofold. first, my maternal response to a lot of my friends. at any sign of trouble, i used to find myself shifting registers to emulate the softness of a caring mother.
 

@@ -22,6 +22,14 @@ entries:
       - title: "gumroad: <a class='selfId gumroad' href='https://vgdn.cc/gumroad'><i class='fa-solid fa-heart'></i>@vaynegarden</a>"
   - title: "for the stuff that isn't important enough to be a blog post but not silly enough to be a tweet or a chost"
     post_list:
+      category: blog
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+  - title: "poems"
+    post_list:
+      category: poem
       limit: 5
       show_more: true
       show_more_text: See archive...

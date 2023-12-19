@@ -89,7 +89,7 @@
 
 :root {
 	--dark-mode: 0;
-	--main-color: #c0baff;
+	--main-color: #e1ebff;
 	--accent-color: #df8600;
 }
 
@@ -100,6 +100,14 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 800;
+}
+
+h1 {
+	margin-bottom: 0 !important;
+
+	& ~ p {
+		margin: 0 !important;
+	}
 }
 
 li {
@@ -245,13 +253,27 @@ a#backlink {
 	}
 }
 
+.poemPost {
+	white-space:nowrap;
+	
+}
+
+.post-content {
+	overflow: scroll;
+}
+
+.w {
+	padding: 3rem 5vmin !important;
+	width: fit-content !important;
+}
+
 //#region -------------- No-Style -------------- //
   // -------------------------------------------- //
   
   // bg color is also needed in html in order to
   // block body's background propagation
   // see: https://stackoverflow.com/a/61265706
-  html, body { background: #c0baff; }
+  html, body { background: var(--main-color); }
   
   html { height: 100%; }
   
