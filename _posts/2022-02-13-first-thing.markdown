@@ -6,7 +6,7 @@ categories: poem
 ---
 <small>vayne altapascine</small>
 
-<div id="poemPost"><p>do you see the wrinkles of your<br />
+<div id="poemPost unWrap"><p>do you see the wrinkles of your<br />
 fingertip joints, the soft bundling of skin<br />
 where i kiss them softly and you<br />
 slip by my side?<br />

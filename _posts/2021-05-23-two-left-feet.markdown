@@ -6,7 +6,7 @@ categories: poem
 ---
 <small>vayne altapascine</small>
 
-<div id="poemPost"><p>can we try again?<br />
+<div id="poemPost unWrap"><p>can we try again?<br />
 i have two left feet<br />
 and the music is still playing.<br />
 it's still three-four, one-two in the morning.<br />
