@@ -6,7 +6,7 @@ categories: poem
 ---
 <small>vayne altapascine</small>
 
-<div class=poemPost>
+<div id=poemPost>
 <p>it dawned on me slowly–<br />
 a realization ashen in crisp leaves<br />
 the sound, sudden and swift,<br />
