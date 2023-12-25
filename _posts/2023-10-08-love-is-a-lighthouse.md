@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "look for the light"
+title:  "my love is a lighthouse"
 date:   2023-10-08 15:47:14 +0800
 categories: blog memorybox august
 ---
